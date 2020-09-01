@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 test 1
+=======
+text0
+>>>>>>> 203192a77acb3c3c11ab6fc2bdc543a4bb099a18
