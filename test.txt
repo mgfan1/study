@@ -1,8 +1,1 @@
-striing 1
-str 2
-<<<<<<< HEAD
-str 3
-str 4
-=======
-str 3
->>>>>>> e4eac68df47cba309061ced2c8d7bea5b4903cfa
+str 1
