@@ -1,1 +1,2 @@
 striing 1
+str 2
