@@ -5,3 +5,4 @@ dwww
 
 + text three 
 oooo
+проверяем rebase
